@@ -25,7 +25,7 @@ env:
   CONFIG_FILE: .config
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
-  TZ: Asia/Shanghai
+  TZ: America/Chicago
 
 jobs:
   build:
